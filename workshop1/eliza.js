@@ -222,8 +222,8 @@ var rules = {
     "What do you think?",
     "What comes to your mind when you ask that?",
   ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+  "~*x toes ~*y": [
+    "yummy yummy crunchy crunchy",
   ],
   "~*x toes ~*y": [
   	"In my hay day I loved to eat toes",
