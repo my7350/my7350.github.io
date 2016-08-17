@@ -227,6 +227,7 @@ var rules = {
   ],
   "~*x toes ~*y": [
   	"In my hay day I loved to eat toes",
+  	"I like croutons on my salad, but no cranberries"
   ],
 };
 
